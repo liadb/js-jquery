@@ -1,11 +1,11 @@
 {
   "name": "jQuery-BinaryTransport",
-  "homepage": "https://github.com/liadb/js-jquery/tree/master/BinaryTransport",
+  "homepage": "https://github.com/liadb/js-jquery/",
   "authors": [
     "liadb <liad@budgeta.com>"
   ],
   "description": "",
-  "main": "jquery.binarytransport.js",
+  "main": "BinaryTransport/jquery.binarytransport.js",
   "moduleType": [
     "globals"
   ],

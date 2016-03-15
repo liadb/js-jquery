@@ -1,0 +1,20 @@
+{
+  "name": "jQuery-BinaryTransport",
+  "homepage": "https://github.com/liadb/js-jquery/tree/master/BinaryTransport",
+  "authors": [
+    "liadb <liad@budgeta.com>"
+  ],
+  "description": "",
+  "main": "jquery.binarytransport.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
